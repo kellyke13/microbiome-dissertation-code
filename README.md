@@ -3,7 +3,7 @@
 This repository contains the R code and supplementary materials for my MSc Statistical Science dissertation:  
 **"Modeling Zero-Inflated Microbiome Count Data: A Comparative Study of ZIPG and ZIPFA Approaches"**.
 
-## 📖 Overview
+## Overview
 The project investigates two statistical models for microbiome count data:
 - **ZIPG** (Zero-Inflated Poisson–Gamma) [Jiang et al., 2023]
 - **ZIPFA** (Zero-Inflated Poisson Factor Analysis) [Xu et al., 2021]
