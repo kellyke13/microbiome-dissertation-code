@@ -1,7 +1,7 @@
 # microbiome-dissertation-code
 
 This repository contains the R code and supplementary materials for my MSc Statistical Science dissertation:  
-**"Modeling Zero-Inflated Microbiome Count Data: A Comparative Study of ZIPG and ZIPFA Approaches"**.
+**"Statistical Modeling of Zero-Inflated Microbiome Data: A Comparative Study of ZIPG and ZIPFA"**.
 
 ## Overview
 The project investigates two statistical models for microbiome count data:
